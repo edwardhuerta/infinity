@@ -1,3 +1,5 @@
+This is an attempt to merge the forked infinity adapter and the DataBinding adapter from google ui toolkit devs.
+
 # infinity
 
 Tiny library with ability to provide support for infinite paginated scrolling in `RecyclerView`. It is able to show loading & try again layout at the bottom of the list.
